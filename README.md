@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IsraaGuda4
+- 👋 Hi, I’m Israa Fikry Guda 
 - 👀 I’m interested in learning all times, applying what i learn in rael-word projects.
 - 🌱 I’m currently learning Programming, Artificial Intelligence, Data Science ...
 - 💞️ I’m looking to collaborate on real-world projects, landing companies in my fields to help them increase their productivity, 
